@@ -7,6 +7,8 @@
 - Includes a light and dark mode.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-{https://snehadev22.github.io/My-Portfolio/}
+
+
+https://snehadev22.github.io/My-Portfolio/
 
 
